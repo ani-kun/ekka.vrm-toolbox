@@ -1,0 +1,16 @@
+{
+    "name": "ekka.perfect-sync-register.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRM"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
