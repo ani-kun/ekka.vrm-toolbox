@@ -1,5 +1,5 @@
 {
-    "name": "ekka.perfect-sync-register.Editor",
+    "name": "ekka.vrm-toolbox.Editor",
     "rootNamespace": "",
     "references": [
         "VRM"
