@@ -64,7 +64,7 @@ namespace ekka.vrm
             "tongueOut",
         };
 
-        [MenuItem("GameObject/EKKA Tools/PerefectSync Register", false, 0)]
+        [MenuItem("GameObject/EKKA VRM Toolbox/PerefectSync Register", false, 0)]
         public static void RegistPerefectSync()
         {
             RegistPerefectSync(Selection.activeGameObject);
