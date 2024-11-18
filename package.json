@@ -1,9 +1,9 @@
 {
-  "name": "ekka.perfect-sync-register",
-  "displayName": "EKKAPerfectSyncRegister",
+  "name": "ekka.vrm-toolbox",
+  "displayName": "EKKAVRMToolbox",
   "version": "0.0.1",
   "unity": "2022.2",
-  "description": "Generate and register a VRM BlendShapeClip with a BlendShape whose name matches an ARFaceAnchor (a.k.a PerfectSync).",
+  "description": "Toolbox for VRM.",
   "author": {
     "name": "Ani-kun",
     "email": "anikunvrc@gmail.com"
