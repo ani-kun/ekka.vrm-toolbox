@@ -4,3 +4,5 @@ Toolbox for VRM
 Generate and register a VRM BlendShapeClip with a BlendShape whose name matches an ARFaceAnchor (a.k.a PerfectSync).
 ## BlendShape To AnimationClip
 Generate AnimationClip from VRM BlendShapes.
+## Spring bone relocater
+Relocate VRM Spring Bone from secondary.
